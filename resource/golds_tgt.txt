@@ -1,0 +1,1563 @@
+O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate
+субъект перемещения,predicate,O,O
+O,predicate,O,O
+субъект перемещения,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,O,predicate,O,O,O,O,O,O
+субъект перемещения,O,predicate,O,O,O,O,O
+O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,predicate,O,O,O,O,O,O
+O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,predicate,O,O
+агенс,predicate,пациенс,O,O
+агенс,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,агенс,O,пациенс,O,O
+агенс,O,O,O,O,O,predicate,O,O,пациенс,O,O,O,O,O,O
+O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,пациенс,predicate
+O,O,O,O,O,агенс,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,агенс,O,O,predicate,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,predicate,O,O,пациенс,O,O,O,O,O
+O,O,O,O,O,O,пациенс,predicate
+агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O
+O,O,O,O,predicate,O,O
+O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,агенс
+O,агенс,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,содержание мысли,predicate,O
+O,O,O,O,O,O,O,O,агенс,O,O,predicate
+агенс,O,O,predicate,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,содержание мысли,O
+агенс,predicate,O,O
+O,O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O
+тема,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема
+O,O,O,O,predicate,O,O,O,O,O,O
+O,O,predicate,O,тема,O,O,O,O,O,O,O,O
+O,тема,O,O,O,predicate,O,O,O,O,O,O,O
+тема,O,O,O,O,O,O,predicate
+тема,predicate,O,O,O,O,O,O,O,O
+O,O,тема,predicate
+O,O,тема,O,O,predicate
+O,тема,predicate,O,O,O,O
+O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O
+O,predicate,тема
+тема,O,O,O,O,O,O,O,predicate
+O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,тема
+O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,predicate,O,O,O,O,O
+агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,содержание действия,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс
+O,O,O,O,O,O,агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,пациенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,predicate,O,O,O,O,O
+O,агенс,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,агенс,O,predicate,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,агенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+пациенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,тема,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,субъект перемещения
+O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,predicate,O,O,O,O
+субъект перемещения,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,predicate,O,O,содержание действия,O,O
+O,O,O,O,O,O,O,O,O,агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,predicate,O
+O,агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O
+O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O
+говорящий,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,говорящий
+O,O,говорящий,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,predicate,говорящий
+O,O,O,O,O,predicate,говорящий
+O,predicate,говорящий
+O,predicate,говорящий,O,O
+O,O,predicate,говорящий
+O,причина,predicate,O,говорящий
+O,O,O,O,predicate,говорящий,O,O,O,O,O,O,O,O,O
+O,говорящий,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,говорящий,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+говорящий,O,predicate
+агенс,O,O,predicate,O,O,причина
+говорящий,O,predicate
+O,O,причина,говорящий,O,predicate
+говорящий,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,говорящий
+O,O,O,O,O,predicate,говорящий,O
+O,говорящий,predicate,O,O,O
+predicate,говорящий,O
+O,O,говорящий,predicate,O,O
+O,O,O,predicate,говорящий
+O,predicate,говорящий
+говорящий,predicate,O,O
+O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,predicate,говорящий,O,O,O
+O,O,O,O,O,predicate,говорящий,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,O,predicate,O,O,O
+O,predicate,говорящий,O,O,O,O,O,O
+O,O,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+говорящий,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,говорящий,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+говорящий,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,говорящий,predicate,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,говорящий
+O,O,говорящий,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,говорящий,O,predicate,O,O,O
+говорящий,O,O,O,predicate
+O,predicate,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,тема,O,O,O,O,O,O,O,O,O,O
+predicate,пациенс,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O
+O,O,O,O,тема,O,O,predicate
+O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект психологического состояния,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,тема,O,O,O
+O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O
+O,O,predicate,O,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,predicate,пациенс
+O,O,O,O,O,агенс,O,O,predicate,пациенс
+O,O,O,O,predicate,O,O,O,O,пациенс
+агенс,O,predicate,пациенс
+O,predicate,O,O,O,O,пациенс,O,O,агенс
+O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,пациенс,O,O,O,O,O,O,O,O
+агенс,O,O,O,predicate,пациенс
+агенс,O,O,O,O,O,O,predicate,пациенс
+агенс,predicate,пациенс,O,O,O,O
+O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,агенс,пациенс,O,O,O
+O,агенс,predicate,пациенс,O,O,O,O
+O,O,O,O,пациенс,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс
+O,O,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O
+тема,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O
+агенс,O,predicate,содержание действия
+содержание действия,агенс,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,тема,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,агенс,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,содержание действия,O,predicate
+O,агенс,predicate,O,содержание действия,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O
+агенс,O,predicate,O,содержание действия,O,O,O,O
+O,O,O,тема,predicate,O,O,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,тема,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O
+агенс,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,содержание действия,O,O
+O,O,агенс,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,содержание действия
+агенс,predicate,содержание действия,O,O,O,O,O
+O,агенс,O,predicate,содержание действия,O,O,O,O
+агенс,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,содержание действия,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O
+O,O,O,O,predicate,содержание действия,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,содержание действия,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,содержание действия,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O
+O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,содержание действия,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O
+субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,субъект перемещения,O,O,O,O,O,predicate,O
+O,O,O,O,субъект перемещения,predicate,O,O
+O,O,O,predicate,O,O,O,O,O,O,O
+субъект перемещения,O,O,predicate,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,субъект перемещения
+субъект перемещения,O,predicate,O,O,O,O
+O,O,субъект перемещения,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O
+субъект перемещения,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,субъект перемещения
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,пациенс
+O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,субъект перемещения,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,predicate,O,O
+O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,агенс,predicate,O,пациенс
+O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O
+O,O,predicate,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O
+O,пациенс,O,predicate,агенс
+агенс,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,агенс,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,O,O,O,predicate
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O
+O,O,O,O,субъект перемещения,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,субъект перемещения
+O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,O,O,O,O,O,predicate,O
+O,O,predicate,субъект перемещения,O,O,O,O
+O,O,O,агенс,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+predicate,O,O
+агенс,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,субъект психологического состояния,predicate,O,O,O,O,O,O,O
+агенс,O,predicate,O,O,O,O
+O,агенс,O,predicate
+O,O,O,O,predicate,причина,O,O
+говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,причина,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,причина,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,причина,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,причина,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,predicate,субъект психологического состояния,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,субъект психологического состояния,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O
+тема,O,O,O,O,O,predicate,O,O,O,O,O
+O,predicate,O,O,O,O
+O,predicate,агенс,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O,O,O,O,O
+O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,субъект психологического состояния,predicate,O,O,причина,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,predicate,причина,O,O
+O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,субъект психологического состояния,O,O,O,O
+агенс,O,O,O,O,O,predicate,O
+субъект психологического состояния,O,O,O,predicate,O,O,O,причина
+O,субъект психологического состояния,O,predicate,причина,O,O
+O,O,причина,O,O,O,O,O,predicate,O,субъект психологического состояния
+агенс,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,субъект психологического состояния,predicate,O,O,причина,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,причина,predicate,субъект психологического состояния,O,O,O,O,O
+O,O,O,predicate
+O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,predicate,O,O
+агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+субъект психологического состояния,predicate,O,O,причина,O,O,O,O
+O,O,predicate,говорящий
+O,O,O,O,O,агенс,O,O,O,predicate,пациенс,O,O,O,O
+O,predicate,O,O,O,O,говорящий
+O,пациенс,O,predicate,O,O
+O,O,O,O,O,O,O,O,predicate,O,говорящий
+говорящий,predicate,O
+O,predicate,пациенс,O,O,O,O,O,O,O,O
+O,O,predicate,говорящий,O,O,O,O,O,O,O,O
+O,O,predicate,пациенс,O,O,O,O,O,O,O
+O,O,predicate,говорящий
+O,O,O,O,O,predicate,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,говорящий
+O,predicate,говорящий,O,O,O
+O,O,predicate,говорящий,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,говорящий,O,O,O,O,O,O
+пациенс,O,O,O,O,predicate,O,O
+O,O,O,пациенс,predicate
+O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O
+O,говорящий,O,O,O,O,O,predicate,O,O
+говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O
+говорящий,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,говорящий,O,O,O
+O,O,O,O,O,говорящий,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,говорящий,predicate,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O
+O,O,говорящий,O,predicate,O,O,O
+O,O,O,predicate,O,O,говорящий,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,O,O,O,O,predicate,O,O,O,O,O
+O,говорящий,predicate,O
+говорящий,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,predicate,O
+агенс,O,O,predicate
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,агенс,O,predicate,O,O,O,O
+O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,predicate,O,O,O,O
+O,O,агенс,predicate,O,O,O,O
+O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O
+O,O,O,агенс,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,агенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O
+агенс,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,O,predicate,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,predicate
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,говорящий,predicate
+O,O,O,predicate
+O,O,O,O,O,O,predicate,O,O,O
+O,говорящий,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,содержание мысли,O,O,O,O,O
+O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,predicate
+O,O,predicate,O,O,O,O,O,содержание мысли,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,predicate
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,содержание мысли
+O,O,O,O,predicate,O,O,содержание действия
+O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,содержание действия,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,агенс,пациенс,O,predicate
+агенс,O,O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate
+O,O,O,пациенс,O,predicate
+O,пациенс,predicate
+O,O,O,пациенс,predicate,O,O,O,O
+O,predicate,O,O,содержание действия,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,агенс,predicate,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,агенс,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,predicate
+тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+predicate,O,O,тема,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,predicate,агенс
+O,O,O,O,O,O,O,O,O,O,O,predicate,агенс
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,агенс,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,агенс,O,predicate
+O,O,predicate,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,predicate
+O,predicate,O,O,O
+O,O,агенс,predicate,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,агенс,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+агенс,O,predicate
+пациенс,predicate,O,O,O,O,O,O,O
+O,агенс,predicate,O,O,O,O
+O,O,O,O,O,O,O,пациенс,predicate,O,O,O
+O,O,O,O,O,O,predicate,пациенс
+O,O,predicate,пациенс,O,O,O
+O,агенс,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O
+O,O,агенс,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,predicate,O,O,O,O,O,O
+агенс,O,O,O,O,predicate,пациенс,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O,O
+O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O
+агенс,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,тема
+агенс,O,predicate,пациенс,O,O
+O,O,агенс,predicate,O,тема
+тема,агенс,predicate,O,O
+O,O,O,O,O,O,O,пациенс,predicate,агенс,O,O
+O,агенс,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,тема,O,O,O,O,O,O
+O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,тема
+O,O,O,O,O,агенс,O,O,O,O,predicate,тема,O,O,O,O,O
+O,O,O,predicate,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,predicate
+O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,predicate,O,содержание действия,O,O,O
+O,O,пациенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,содержание мысли,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,агенс,O,O,predicate,O,O
+O,O,predicate,O,O,O,O,O,O,содержание мысли,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O
+O,O,predicate,O,O,содержание мысли,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,содержание действия,O,O,O,predicate,O,O
+O,O,O,predicate,O,O,O
+O,predicate,O,O,O,O,O,O,содержание мысли,O,O,O,O
+O,тема,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,predicate,содержание мысли,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,тема
+O,O,O,тема,predicate,O,O,O
+O,predicate,тема,O,O
+O,тема,O,predicate,O,O,O,O,O,O
+O,тема,O,O,O,O,predicate
+тема,O,predicate,O,O,O
+O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,тема,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,тема,O,O,O,O,O,O,O
+O,тема,predicate,O,O,O,O,O
+O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O
+O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,predicate,O
+O,O,predicate,O
+O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,говорящий,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,говорящий,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+говорящий,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+говорящий,O,O,O,predicate,O,O
+O,predicate,O,O,O,O,O,O,O,O
+говорящий,O,O,predicate,O,O,O,O,O,O,O
+говорящий,O,O,predicate,O,O,O,O
+O,O,O,говорящий,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,O,O,O,O
+говорящий,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,говорящий,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,содержание действия,O,O,O,O
+O,predicate,содержание действия,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,содержание мысли,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,содержание действия,O,O,O,O
+O,агенс,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия
+агенс,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O
+O,содержание мысли,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,predicate,O,O,содержание действия,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,пациенс
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+пациенс,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O
+O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,пациенс,O,predicate,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O
+O,O,O,O,predicate,O,O
+O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,пациенс,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,predicate,пациенс,O,O,O,O,O,O,O
+O,O,агенс,predicate,O,O,пациенс,O,O,O,O,O,O,O
+O,агенс,O,O,O,O,predicate,O,пациенс,O,O
+O,predicate,агенс,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O,пациенс,O,O,O
+агенс,predicate,пациенс
+пациенс,predicate
+агенс,O,predicate,пациенс,O,O
+O,O,O,O,O,O,O,агенс,predicate,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+пациенс,predicate,O
+O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O,O
+O,O,агенс,O,O,predicate,пациенс
+агенс,predicate,O,O,O,O,O,O
+O,O,O,O,predicate,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,predicate,O,O,O,O,O
+агенс,predicate,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O
+O,O,O,агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,агенс,predicate,O,O,O,O,O,O,O,O,O
+агенс,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,O,говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,говорящий
+O,O,O,O,O,O,O,говорящий,O,O,O,predicate
+O,O,O,O,O,O,O,predicate,O,говорящий
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,predicate
+O,O,O,O,O,говорящий,O,O,O,O,predicate,O,O,O,O
+O,говорящий,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,говорящий,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,говорящий,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+говорящий,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+говорящий,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+говорящий,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,тема,O,O
+O,O,predicate,тема
+O,O,O,O,O,O,агенс,O,predicate,пациенс,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,тема,O,O
+O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O
+тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема,O
+O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,тема
+O,O,predicate,тема,O,O,O,O,O,O,O,O
+O,O,агенс,predicate,O,O
+O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O
+O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,содержание мысли,O
+O,O,O,O,predicate
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,содержание мысли,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,содержание мысли
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O,O
+O,O,O,predicate,O,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,predicate,O
+O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,predicate,O,содержание мысли,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,содержание мысли
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,predicate,O,содержание мысли,O,O,O,O,O,O,O,O,O
+O,O,субъект психологического состояния,O,O,predicate,O,содержание мысли,O,O,O,O,O,O,O
+O,субъект психологического состояния,O,predicate,O,O,содержание мысли,O,O
+O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O
+O,O,O,O,O,O,O,субъект психологического состояния,predicate,содержание мысли,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O
+O,O,O,O,O,субъект психологического состояния,predicate,O,содержание мысли
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,predicate,содержание мысли,O,O,O,O,O,O
+субъект психологического состояния,O,predicate,O,содержание мысли,O,O
+O,O,субъект психологического состояния,predicate,содержание мысли,O,O
+субъект психологического состояния,predicate,содержание мысли,O,O,O,O
+O,субъект психологического состояния,predicate,содержание мысли
+O,субъект психологического состояния,O,O,O,O,O,O,содержание мысли,predicate
+субъект психологического состояния,O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,субъект психологического состояния,O,predicate,содержание мысли,O,O,O,O,O,O
+O,O,O,субъект психологического состояния,O,O,predicate,содержание мысли
+O,O,O,O,O,O,O,субъект психологического состояния,predicate,содержание мысли,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate
+O,O,O,predicate,O,O,O
+O,O,O,predicate,O
+O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,содержание мысли
+O,O,O,O,O,O,O,O,O,O,predicate,O,содержание мысли,O
+O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание мысли,O
+O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,пациенс,O,predicate
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,говорящий,O,predicate,O
+O,O,O,O,predicate
+O,O,predicate,говорящий
+O,O,predicate,O,O,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,говорящий,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,агенс,O,O,O
+O,O,O,predicate,O
+O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,говорящий,O,predicate,O,O,O,O
+O,говорящий,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,агенс,predicate,O
+O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,predicate,тема,O,O
+O,O,O,тема,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,тема,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,тема,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,тема,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,тема,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,тема,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,тема,O,predicate,O,O,O,содержание действия
+O,тема,O,O,O,predicate,O,содержание действия
+O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,содержание действия,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O
+тема,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,содержание действия,predicate,O,тема,O,O
+тема,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O
+O,пациенс,predicate,O,O
+O,O,O,тема,O,predicate
+O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,predicate
+O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,тема,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,пациенс,O,predicate,O,O,O
+O,predicate,O,O,O,O
+O,O,O,predicate,O,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O
+O,O,тема,агенс,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,predicate,O
+O,пациенс,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,predicate,O
+O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,агенс
+O,O,O,агенс,predicate,O,O,O,содержание действия
+O,O,O,агенс,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,O,O
+O,O,O,O,агенс,O,O,O,predicate,O,содержание действия
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,агенс,O,predicate,O,O
+O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,агенс,O,predicate,O,O,O,O,O,O,O,O
+O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O,O,O
+O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O
+агенс,O,O,predicate,пациенс
+O,O,predicate,пациенс,O,O,O
+O,O,O,O,predicate,O,O
+O,O,O,O,агенс,O,O,predicate,O,пациенс,O,пациенс,O,O,O,O
+агенс,predicate,пациенс,O,O,O,O,O,O,O
+O,O,O,O,O,агенс,O,predicate,O,O,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,пациенс,O,O,O,O,O,O
+O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O
+O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,пациенс,O,O,агенс,O,predicate
+O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,predicate,содержание мысли,O
+O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O
+O,субъект психологического состояния,O,O,predicate
+O,O,predicate,O,O,O,O,O
+O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O
+O,predicate,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O
+O,O,причина,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,predicate,O,тема
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,субъект психологического состояния,O,O,содержание мысли,O,O,O,O
+O,O,O,O,O,predicate,O,субъект психологического состояния,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,тема,O,predicate,O,O,O,O,O
+O,predicate,O,причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,тема,O,predicate,O,O,O,O,O,O,O,O,O
+predicate,O
+O,O,predicate,O,O,тема,O
+O,O,O,predicate,тема,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,субъект перемещения,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O
+O,predicate,O,O
+O,O,O,O,O,O,O,агенс,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O
+O,субъект перемещения,O,O,O,predicate,O,O,O,O
+O,O,субъект перемещения,predicate,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O
+O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,субъект перемещения,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O
+O,O,тема,O,O,O,O,predicate
+O,субъект перемещения,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,тема,predicate,O,O,O,O
+O,O,predicate,O,тема,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,predicate
+O,O,O,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+тема,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O
+O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,агенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,субъект перемещения,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,пациенс,агенс,O,predicate
+O,O,O,агенс,predicate,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,пациенс,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс
+O,субъект перемещения,predicate,O,O,O
+O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,пациенс,predicate
+O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,субъект перемещения,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O
+O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,predicate,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,субъект перемещения
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,O,predicate,O,O
+O,predicate,O,содержание действия
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,predicate,O,O
+O,субъект перемещения,O,O,O,predicate
+субъект перемещения,predicate,O,O
+субъект перемещения,O,predicate,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O
+O,predicate,субъект перемещения
+O,субъект перемещения,O,O,O,O,O,O,O,predicate,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,субъект перемещения,predicate,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,субъект перемещения,O,O,O,O,O,O,O
+O,субъект перемещения,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,пациенс,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,predicate,O,O,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,predicate,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,пациенс,predicate,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,пациенс,O,O,predicate,O,O,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,predicate,O,O,тема
+O,O,O,O,O,O,O,O,O,O,O,пациенс,O,тема,predicate,O,O,O
+O,O,O,O,O,пациенс,predicate,O,O,O,тема,O,O,O,O,O,O,O
+O,O,пациенс,O,predicate,O,O,тема,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,O,O,O,predicate,O,O,тема,O,O,O,O
+пациенс,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,пациенс,O,O,predicate,O,тема
+пациенс,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема
+O,O,O,O,O,O,O,тема,predicate,O,O,пациенс,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,predicate,O,O,тема
+O,O,пациенс,O,O,predicate
+O,O,O,агенс,O,O,predicate,содержание действия,O,O,O,O,O,O,O
+O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,содержание действия,O
+O,агенс,O,O,O,O,O,O,predicate,O,O,пациенс
+O,O,O,агенс,O,O,O,O,O,O,O,O,O,predicate,O,содержание мысли,O
+агенс,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,агенс,predicate,содержание действия
+агенс,O,predicate,O,O,O
+O,O,агенс,predicate,содержание действия,O,O,O,O,O
+O,O,O,predicate,содержание действия
+O,O,O,O,O,O,пациенс,O,predicate
+пациенс,O,O,predicate
+O,O,O,O,O,агенс,O,predicate,содержание действия,O,O
+O,O,O,агенс,O,O,O,O,predicate
+O,predicate,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,субъект перемещения,O,O,O,predicate,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,агенс,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,субъект перемещения,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O
+O,predicate,O,O,O,O,O,O
+O,O,субъект перемещения,predicate,O,O,O,O
+O,пациенс,predicate,агенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,пациенс,predicate,содержание действия,O,O,O,O,O
+O,причина,O,O,O,predicate,O,O,O,O,O
+O,O,говорящий,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,содержание мысли,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate,содержание действия,O,O,O
+O,O,O,O,O,O,O,тема,O,O,O,predicate,O,O,O,агенс,O,O,O
+O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O
+O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,predicate,O
+O,predicate,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+пациенс,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O
+O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,predicate,O,O,O,O,O,O
+O,O,predicate,пациенс
+пациенс,predicate,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O
+пациенс,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O
+O,O,O,пациенс,O,predicate,O,O
+O,агенс,predicate,O,O,O,O,O,O,O,O
+агенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,агенс,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate,O,содержание действия
+O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O
+O,O,predicate,O,содержание действия,O,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,predicate,O,содержание действия
+O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+пациенс,O,O,O,O,O,O,O,O,predicate,O,содержание действия
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O
+O,O,predicate,агенс,O
+O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,predicate
+O,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,причина,O,O,O,O
+O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,причина,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate
+O,O,predicate,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,содержание мысли
+O,O,тема,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,predicate,O,O,O,O
+O,содержание мысли,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,содержание мысли
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,содержание мысли,O,O,O,predicate
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,содержание мысли,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема
+O,O,тема,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема
+O,O,O,O,O,predicate,тема,O,O
+O,O,O,O,O,predicate,тема
+O,O,содержание действия,O,O,predicate,O,O,O
+O,O,O,O,predicate,содержание действия,O,O
+содержание действия,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+содержание действия,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,содержание действия,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,содержание действия
+содержание действия,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,predicate,O,O,O,O
+содержание действия,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,содержание действия,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание мысли,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема
+O,O,тема,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,тема,O,O,predicate,O,O,O,O,O,O,O,O,O
+тема,пациенс,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,содержание мысли,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+predicate,O,тема
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема
+O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,predicate,O,тема,O
+O,O,O,predicate,тема
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема
+O,predicate,тема
+O,predicate,O,тема
+O,O,O,O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O
+тема,predicate
+O,O,O,O,O,predicate,O,содержание мысли
+O,O,O,тема,predicate,O,O
+O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,тема,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O,O
+predicate,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,тема,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,тема
+O,O,тема,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O
+пациенс,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O
+O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,predicate
+O,O,O,predicate,O,O,пациенс
+агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,predicate,O,O
+агенс,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,агенс,predicate,O,O,O,O
+O,O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,predicate
+O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O
+O,O,агенс,predicate,O
+агенс,predicate,O
+O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,субъект перемещения,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O
+O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,субъект перемещения,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,субъект перемещения,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,субъект перемещения
+O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,пациенс,O,predicate
+O,пациенс,predicate,O,O,O,O
+пациенс,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,predicate
+O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,пациенс,predicate
+O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,пациенс,O,O,predicate
+O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O
+O,O,пациенс,predicate
+O,O,O,O,O,O,O,O,O,O,пациенс,predicate,O,O,O
+агенс,predicate,O,пациенс,O,O
+O,пациенс,predicate,O,O,O,O,O
+O,O,O,пациенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O
+O,агенс,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,пациенс,O,O
+O,O,O,O,O,агенс,O,O,O,O,O,O,O,predicate,O,O,O,пациенс,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,пациенс,predicate
+O,O,пациенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,пациенс,O,O,O,O,predicate,агенс,O,O,O
+O,O,O,O,O,O,агенс,O,predicate,пациенс,O,O,O,O
+O,пациенс,predicate,агенс,O,O
+O,O,агенс,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,пациенс
+O,O,субъект психологического состояния,O,O,O,O,O,O,predicate,O,O,содержание мысли,O,O
+O,субъект психологического состояния,O,O,O,O,O,O,O,O,predicate,содержание мысли,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,predicate,содержание мысли
+O,O,O,O,O,O,O,predicate,содержание мысли,O,O
+субъект психологического состояния,O,predicate,содержание мысли
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,O,O,O,O,predicate,содержание мысли
+O,субъект психологического состояния,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание мысли,O,predicate
+субъект психологического состояния,O,predicate,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание мысли,predicate
+O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,субъект психологического состояния,O,содержание мысли,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,субъект перемещения,O,predicate,O,O
+O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O
+O,O,predicate,O,O,O,O,O,O,O
+O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,субъект перемещения,O,O
+O,O,O,O,субъект перемещения,O,O,predicate
+O,субъект перемещения,O,O,predicate,O,O,O,O,O,O,O
+субъект перемещения,O,O,O,O,O,O,O,predicate,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,O,O,predicate,O,O
+O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O
+пациенс,O,O,predicate
+O,O,O,predicate,O,O,O,O,O,O,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,пациенс
+O,O,пациенс,predicate
+O,O,O,O,O,predicate,O,пациенс
+пациенс,O,O,O,predicate
+O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,пациенс
+O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,predicate,O
+O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O
+O,O,O,O,O,predicate
+O,O,O,O,predicate
+O,O,O,O,predicate,O,O,O
+O,O,O,O,predicate
+O,O,predicate,O,O,O,O,O,O,O
+O,predicate,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O
+субъект перемещения,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия
+O,агенс,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O
+O,O,субъект перемещения,predicate,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,содержание действия,O,O,O
+O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,агенс,O,O,O,predicate,O,O,O,O
+O,O,O,O,агенс,O,O,O,predicate,O,O
+O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,агенс,O,O,O,O,O,predicate,O,O
+O,агенс,O,причина,predicate,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,агенс,O,O,O,predicate,O,O
+агенс,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,говорящий,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,говорящий,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,говорящий,O,O,predicate,O,O,O,O
+говорящий,predicate
+O,O,O,O,O,O,O,O,O,говорящий,predicate,O
+O,predicate,говорящий,O,O,O
+говорящий,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O
+говорящий,predicate,O,O,O,O,O,O,O,O
+говорящий,predicate,O
+O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,говорящий,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,пациенс,O
+O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,пациенс,O,O
+O,O,O,O,O,O,агенс,O,predicate,O,O,пациенс,O,O,O,O,O,O
+O,O,O,агенс,predicate,O,O,O,O,пациенс
+O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O
+O,O,O,O,O,агенс,predicate,O,пациенс,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,пациенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O
+агенс,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,O,predicate,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,predicate,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,содержание действия,O,O,O,predicate,O,агенс,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,predicate,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,O,O,O,O,O,predicate,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,субъект психологического состояния
+O,O,O,O,субъект психологического состояния,O,O,O,O,O,O,predicate
+причина,субъект психологического состояния,predicate
+субъект психологического состояния,O,O,O,predicate,O,O,O,причина
+причина,O,субъект психологического состояния,predicate
+O,O,O,O,O,O,O,причина,O,O,O,predicate,субъект психологического состояния
+O,O,O,O,O,O,O,причина,predicate,субъект психологического состояния,O,O,O,O,O,O,O,O,O,O,O
+причина,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O
+O,субъект психологического состояния,O,O,O,O,predicate,O
+O,O,субъект психологического состояния,O,predicate,O,причина,O,O,O
+субъект психологического состояния,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,субъект психологического состояния
+O,причина,predicate,субъект психологического состояния
+O,пациенс,O,O,predicate,содержание действия,O
+тема,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,агенс,O,O,O,содержание действия,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,содержание действия,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,predicate,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание действия,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,содержание мысли,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,содержание мысли,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,субъект перемещения,O,O,O,O,O
+O,O,O,O,O,O,агенс,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,O,predicate,O
+агенс,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,predicate
+O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,O,O,predicate,O,O,O,O,O,O
+агенс,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,агенс,predicate,пациенс
+субъект психологического состояния,predicate,O,O,O,O
+O,O,O,O,O,субъект психологического состояния,O,O,O,O,O,O,O,O,O,predicate,причина
+O,причина,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,причина,субъект психологического состояния,predicate
+O,O,причина,субъект психологического состояния,O,O,predicate
+O,predicate,O,причина,O,O,O,O,O,O,O,O
+O,субъект психологического состояния,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,причина,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект психологического состояния,O,predicate,O,O,O,причина,O
+O,predicate,субъект психологического состояния,O,O
+субъект психологического состояния,O,predicate,O,O,O,O,O,O,O,O,O,причина,O,O,O,O,O,O,O
+O,O,O,O,причина,O,O,O,O,O,O,O,O,O,O,predicate,субъект психологического состояния
+причина,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,причина,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,причина,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,причина,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,причина,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,причина,predicate,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,причина,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,причина,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,причина,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+причина,O,predicate,O,O,O,O,O,O,O
+O,O,predicate,O,причина,O,O,O,O,O,O,O
+тема,O,O,predicate,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,пациенс,O,O,O,O,O,O,O
+O,содержание действия,predicate,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,тема,predicate,O
+O,O,O,O,O,O,O,содержание действия,агенс,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,агенс,predicate,O,содержание действия
+тема,O,O,O,predicate,O,O,O
+O,O,O,O,predicate,тема,O,O,O
+агенс,O,O,predicate,O,пациенс,O,O
+тема,O,predicate,O,O,O,O,O,O,O
+агенс,predicate,O,O,O,пациенс,O,O
+O,O,O,O,O,O,O,O,O,причина,predicate,O,O,O,субъект психологического состояния
+O,O,O,O,O,predicate,O,субъект психологического состояния,O,причина,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,причина,O,predicate
+O,O,O,причина,субъект психологического состояния,O,predicate
+O,O,O,O,O,O,O,O,O,O,O,причина,predicate,субъект психологического состояния,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,причина,predicate,O,O,O
+причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,субъект психологического состояния
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,O,O,predicate
+O,O,причина,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,причина,O,predicate,O,O,O
+O,субъект психологического состояния,O,O,predicate,причина
+O,O,O,O,O,O,O,субъект перемещения,predicate,O,O
+O,O,O,O,O,O,O,субъект перемещения,O,predicate
+субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,субъект перемещения,predicate,O,O
+O,O,O,predicate
+O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O
+субъект перемещения,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O
+агенс,O,O,O,predicate,O,содержание действия,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,субъект перемещения,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate
+O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O
+O,O,O,тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,агенс,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+тема,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,тема,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,predicate,O,O,O,O,O,O,O,O
+тема,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+тема,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,агенс,O,O,O,O
+O,O,O,O,O,predicate,O,агенс,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,агенс,O,O,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,содержание действия
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,агенс
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O
+O,O,агенс,O,O,O,predicate,O,O,O,O,O
+O,O,содержание действия,O,predicate,агенс,O,O,O,O,O,O
+O,O,O,O,O,predicate,агенс,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,агенс
+O,O,O,predicate,O,O,O
+O,O,O,агенс,O,predicate
+O,O,O,O,O,агенс,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,predicate
+O,O,O,O,агенс,O,predicate,O,O,O,O,O,O
+O,O,O,O,predicate,O,O,O,O,O,O,агенс
+O,агенс,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,субъект психологического состояния,O,O,O,O,O,O,O,O,O,predicate,O,причина,O
+O,O,O,O,O,O,O,O,O,O,O,причина,O,субъект психологического состояния,O,O,predicate
+субъект психологического состояния,O,O,O,predicate,O,O,O,O,O,причина,O,O,O
+субъект психологического состояния,predicate,причина,O,O,O,O,O
+O,predicate,O,субъект психологического состояния,O
+субъект психологического состояния,O,predicate
+субъект психологического состояния,predicate,причина,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,причина,predicate
+O,O,O,O,predicate,O,причина
+O,O,O,причина,predicate,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,причина
+O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема
+O,O,predicate
+O,O,тема,predicate
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,тема,O,O,O,O,O,O,O,O,O
+O,O,O,predicate,O,O
+O,O,O,O,O,O,predicate,тема
+O,O,O,O,O,O,O,O,O,predicate,тема
+O,O,O,O,O,predicate,тема,O,O,O,O,O,O,O
+O,O,O,O,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,O,O,O,O,O,O,O,predicate,O,O,O
+O,тема,O,O,O,O,O,predicate,O,O,O
+O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,содержание действия,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,агенс
+тема,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,пациенс,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,predicate,O,O,субъект перемещения
+O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O
+O,O,субъект перемещения,O,predicate,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,субъект перемещения,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,субъект перемещения,predicate,O,O,O,O,O,O,O,O,O
+субъект перемещения,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,субъект перемещения,O,O,predicate,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект перемещения,O,O,predicate,O,O,O
+агенс,пациенс,predicate,O,O
+O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,пациенс,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,агенс,O,O,predicate,O,O,O
+O,O,O,агенс,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,predicate,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,O,O,O,predicate
+O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,агенс,O,O,O,O,O,пациенс,O,predicate,O,O,O,O,O,O,O
+O,O,O,агенс,O,O,пациенс,predicate,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,пациенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,O,O,O,O,O,O,O,O,O,predicate,пациенс
+O,O,O,O,агенс,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,агенс,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,пациенс,O,O,O,O
+O,агенс,O,O,O,O,predicate,O,пациенс,O,O
+агенс,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+агенс,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,содержание мысли,O,O,O,O,O,O,O,O,O,O
+predicate,O,O,O
+O,O,predicate,O,тема,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,тема,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,O,predicate,O,субъект психологического состояния,O,причина,O,O,O
+причина,O,O,O,O,O,O,O,O,predicate,субъект психологического состояния,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,причина,O,O,O,субъект психологического состояния,O,predicate,O,O,O,O,O,O,O,O,O,O
+субъект психологического состояния,причина,predicate,O,O,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,субъект психологического состояния,O,O,причина,O,O,O,O,predicate
+O,O,O,O,predicate,субъект психологического состояния,O,O,O,O,O,O,O,O,O,O
+O,субъект психологического состояния,причина,predicate
+субъект психологического состояния,O,причина,O,O,predicate,O,O,O
+субъект психологического состояния,O,причина,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+говорящий,predicate,O,O,O,O
+O,O,O,O,O,O,O,говорящий,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,predicate,O,говорящий,O,O,O,O,O
+O,O,говорящий,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,O,O,O,говорящий,O,O,O,predicate,O,O,O
+O,говорящий,O,predicate,O,O,O
+O,O,O,O,O,O,O,O,O,O,O,O,говорящий,O,O,O,O,O,O,O,O,O,O,O,O,predicate,O,O,O,O,O
+O,O,O,O,O,O,predicate,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O
+O,O,O,говорящий,O,O,predicate,O,O
+говорящий,predicate,O,O,O,O,O
