@@ -252,7 +252,7 @@ def get_iterator(src_vocab_table, tgt_vocab_table, vocab_size, batch_size, buffe
 def get_predict_iterator(src_vocab_table, vocab_size, batch_size, max_len=max_sequence):
     pred_dataset = tf.contrib.data.TextLineDataset(pred_file)
     pred_dataset = pred_dataset.map(
-        lambda src: tf.string_split([src]).values)
+        lambda src: tf.string_split([src],delimiter=',').values,)
     if max_len:
         pred_dataset = pred_dataset.map(lambda src: src[:max_sequence])
 

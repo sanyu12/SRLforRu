@@ -69,7 +69,7 @@ class NER_net:
 
         # Add a training op to tune the parameters.
         self.loss = tf.reduce_mean(-self.log_likelihood)
-        self.train_op = tf.train.AdamOptimizer().minimize(self.loss)
+        self.train_op = tf.train.AdamOptimizer(0.1).minimize(self.loss)
 
 
 def train(net, iterator, sess):
@@ -142,8 +142,8 @@ def predict(net, tag_table, sess):
         for id in viterbi_sequence:
             tag = sess.run(tag_table.lookup(tf.constant(id, dtype=tf.int64))).decode()
             tags += tag
-            tags += " "
-        f.write(str.strip(tags)+"\n")
+            tags += ","
+        f.write(str.strip(tags[:-1])+"\n")
     f.close()
 
         # write_result_to_file(file_iter, tags)
